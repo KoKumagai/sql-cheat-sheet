@@ -26,7 +26,7 @@ WHERE
 ;
 ```
 The percent sign (%) represents zero, one, or multiple characters.  
-The underscore (\n) represents a single number or character.  
+The underscore (\_) represents a single number or character.  
 The symbols can be used in combinations.
 
 ## Example
