@@ -51,7 +51,8 @@ SELECT
   id,
   name,
   email,
-  encrypted_password
+  encrypted_password,
+  country
 FROM
   Users
 WHERE
