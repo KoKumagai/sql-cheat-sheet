@@ -41,7 +41,7 @@ SELECT
 FROM
   Users
 WHERE
-  country IN ('USA', 'Japan');
+  country IN ('USA', 'Japan')
 ;
 ```
 
