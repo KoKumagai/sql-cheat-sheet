@@ -34,7 +34,7 @@ The symbols can be used in combinations.
 ### Users table
 
 | id | name       | email                  | encrypted_password | country |
-|:---|:----------:| :---------------------:|:------------------:|:-------:|
+|:---|:----------:|:----------------------:|:------------------:|:-------:|
 | 1  | Jobs       | jobs@example.com       | dsfsfdssjnenvnnvfq | USA     |
 | 2  | Page       | page@example.com       | kjfghdfsbernevnedr | USA     |
 | 3  | Brin       | brin@example.com       | fajskfjnvdsnspnofe | USA     |
@@ -56,13 +56,13 @@ SELECT
 FROM
   Users
 WHERE
-  country LIKE '%land';
+  country LIKE '%land'
 ;
 ```
 
 #### Users table using like clause
 
 | id | name       | email                  | encrypted_password | country |
-|:---|:----------:| :---------------------:|:------------------:|:-------:|
+|:---|:----------:|:----------------------:|:------------------:|:-------:|
 | 5  | Duda       | duda@example.com       | pqwiwcnnsaggkjfsad | Poland  |
 | 6  | Higgins    | higgins@example.com    | ruernjvrtghvrtyklh | Ireland |
