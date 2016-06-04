@@ -21,8 +21,7 @@ FROM
   table_name alias_table_name
 ;
 ```
-The as keyword is optional on almost all RDBMS(MySQL, PostgreSQL, SQLite, SQL Server)
-but You can't use on Oracle it's illegal.
+The as keyword is optional on almost all RDBMS(MySQL, PostgreSQL, SQLite, SQL Server) but you can't use on Oracle it's illegal.
 
 ## Example
 
